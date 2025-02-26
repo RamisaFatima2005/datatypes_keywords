@@ -102,11 +102,11 @@
 
 # H3 **Google Collab**
 
-*What is Google Colab?*
+**What is Google Colab?**
 
 Google Colab (Colaboratory) is a free online tool by Google that allows you to write and run Python code in your web browser without installing anything. It is mainly used for machine learning, data science, and Python coding.
 
-*Why Use Google Colab?*
+**Why Use Google Colab?**
 
 -No Installation Needed = Works in a browser, so you don’t need to install Python.
 
@@ -118,7 +118,7 @@ Google Colab (Colaboratory) is a free online tool by Google that allows you to w
 
 -Pre-installed Libraries = Many Python libraries (like NumPy, Pandas, TensorFlow) are already installed.
 
-*How to Use Google Colab?*
+**How to Use Google Colab?**
 
 -Go to Google Colab.
 
