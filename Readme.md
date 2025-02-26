@@ -1,4 +1,4 @@
-**Data Types**
+# H1 **Data Types**
 
 **String** (str) = Used for text. Written inside quotes. 
 
