@@ -1,13 +1,23 @@
 **Data Types**
+
 **String** (str) = Used for text. Written inside quotes. 
+
 **Integer** (int) = Used for whole numbers (no decimal). 
+
 **Float** (float) = Used for decimal numbers. 
+
 **Boolean** (bool) = Used for True/False values. 
+
 **List** (list) = A collection that can store multiple values, changeable. 
+
 **Tuple** (tuple) = A collection like a list, but cannot be changed. 
+
 **Dictionary** (dict) = Stores data in key-value pairs. 
+
 **Set** (set) = A collection of unique values, unordered. 
+
 **Frozen Set** (frozenset) = A set that cannot be modified after creation, useful for fixed data collections.
+
 **None** (None) = Represents no value, empty, or nothing in Python.
 
 **Keywords**
