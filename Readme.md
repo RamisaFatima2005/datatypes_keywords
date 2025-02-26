@@ -17,7 +17,6 @@
 **Set** (set) = A collection of unique values, unordered. 
 
 **Frozen Set** (frozenset) = A set that cannot be modified after creation, useful for fixed data collections.
-
 **None** (None) = Represents no value, empty, or nothing in Python.
 
 **Keywords**
